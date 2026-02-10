@@ -1,0 +1,18 @@
+{
+  "name": "ljg-explain-words",
+  "description": "Word Soul Master — deep-dive English word mastery skill for Claude Code",
+  "owner": {
+    "name": "lijigang"
+  },
+  "metadata": {
+    "description": "A deep-dive word mastery tool. It deconstructs an English word into its etymology, core semantics, nuance spectrum, and visual topology. It generates a Museum Quality HTML card to help the user truly master the soul of the word.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ljg-explain-words",
+      "source": "./",
+      "description": "Word soul master skill. Use /ljg-explain-words <word> to deeply deconstruct any English word."
+    }
+  ]
+}
