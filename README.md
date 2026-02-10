@@ -14,7 +14,8 @@
 ## 安装
 
 ```bash
-git clone https://github.com/lijigang/ljg-skill-explain-words.git ~/.claude/skills/ljg-explain-words
+/plugin marketplace add lijigang/ljg-skill-explain-words
+/plugin install ljg-explain-words
 ```
 
 ## 使用
